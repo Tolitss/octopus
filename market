@@ -1,4 +1,4 @@
-
+# Initialize Git repo (if not already)
 git init
 git add .
 git commit -m "Initial commit for Octopus Marketplace"
