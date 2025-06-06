@@ -1,0 +1,9 @@
+
+git init
+git add .
+git commit -m "Initial commit for Octopus Marketplace"
+
+# Create a new repo on GitHub, then push
+git remote add origin https://github.com/Tolitss/octopus-nft.git
+git push -u origin main
+
